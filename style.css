@@ -1,0 +1,30 @@
+/*
+Theme Name: U.S. Web Design Standards Theme
+Theme URI: https://github.com/gboone/uswds-theme
+Author: Greg Boone
+Author URI: https://greg.harmsboone.org
+Description: A theme based on the U.S. Web Design Standards. Learn more at https://playbook.cio.gov/designstandards/
+Version: 1.0
+License: Public Domain, CC0
+License URI: https://creativecommons.org/publicdomain/zero/1.0/
+Tags: black, blue, gray, red, white, yellow, dark, light, one-column, two-columns, right-sidebar, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready, us-web-standards, us-web-design-standards
+Text Domain: usa
+
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+*/
+
+/**
+ * Table of Contents
+ *
+ * 1.0 U.S. Web Design Standards
+ *
+ */
+
+ /**
+  * 1.0 U.S. Web Design Standards
+  *
+  * A HTML Reset and set of basic styles including typography, grid, buttons,
+  * labels, tables, alerts, accordions, form controls and templates, search, and
+  * side navigation
+  */
+@import "css/main.css"
